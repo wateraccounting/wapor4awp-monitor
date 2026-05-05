@@ -6,3 +6,29 @@
 .animation-controls {
   z-index: 1000;
 }
+
+/* ── Hide Streamlit branding and Cloud fork/manage badges ─────────────── */
+/* Built-in "Made with Streamlit" footer */
+footer { visibility: hidden !important; height: 0 !important; }
+
+/* Top-right hamburger menu (in case toolbarMode doesn't fully hide it) */
+#MainMenu { visibility: hidden !important; }
+
+/* Top header / toolbar */
+header[data-testid="stHeader"] { display: none !important; }
+[data-testid="stToolbar"]      { display: none !important; }
+[data-testid="stStatusWidget"] { display: none !important; }
+[data-testid="stDecoration"]   { display: none !important; }
+
+/* Streamlit Community Cloud "Fork" / "GitHub" / "Manage app" badges
+   (class names rotate periodically; the attribute selectors are the
+   long-lived hooks). */
+.viewerBadge_container__r5tak,
+.viewerBadge_link__qRIco,
+[class*="viewerBadge_container"],
+[class*="viewerBadge_link"],
+[data-testid="stAppDeployButton"],
+[data-testid="stAppViewerBadge"] {
+    display: none !important;
+    visibility: hidden !important;
+}
