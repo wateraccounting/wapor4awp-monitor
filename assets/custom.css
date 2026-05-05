@@ -27,8 +27,32 @@ header[data-testid="stHeader"] { display: none !important; }
 .viewerBadge_link__qRIco,
 [class*="viewerBadge_container"],
 [class*="viewerBadge_link"],
+[class*="viewerBadge"],
 [data-testid="stAppDeployButton"],
-[data-testid="stAppViewerBadge"] {
+[data-testid="stAppViewerBadge"],
+[data-testid*="ViewerBadge"],
+[data-testid*="badge"i],
+[data-testid*="Manage"],
+[data-testid*="Fork"],
+[data-testid*="GitHub"],
+a[href*="streamlit.io"],
+a[href*="share.streamlit.app"] {
     display: none !important;
     visibility: hidden !important;
+    opacity: 0 !important;
+}
+
+/* Belt-and-braces: cover the bottom-right corner with a solid
+   matching-background overlay, in case Streamlit ships a redesign
+   that bypasses the selectors above. */
+body::after {
+    content: "";
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 220px;
+    height: 60px;
+    background: #ffffff;
+    z-index: 999999;
+    pointer-events: auto;
 }
