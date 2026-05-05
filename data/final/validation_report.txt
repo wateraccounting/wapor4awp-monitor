@@ -1,0 +1,48 @@
+WaPOR4AWP Global - Validation Report
+============================================================
+File:  D:\WaPOR4AWP_global\global-wapor-awp\data\final\global_awp_country_year.csv
+Rows:  1992
+Date:  2026-05-01 01:08
+
+Result: 20 PASS, 0 FAIL
+------------------------------------------------------------
+[PASS] ISO-3 coverage (all expected countries present)
+       249 found; 0 missing: []
+[PASS] Year 2018 row count >= 100
+       249 rows
+[PASS] Year 2019 row count >= 100
+       249 rows
+[PASS] Year 2020 row count >= 100
+       249 rows
+[PASS] Year 2021 row count >= 100
+       249 rows
+[PASS] Year 2022 row count >= 100
+       249 rows
+[PASS] Year 2023 row count >= 100
+       249 rows
+[PASS] Year 2024 row count >= 100
+       249 rows
+[PASS] Year 2025 row count >= 100
+       249 rows
+[PASS] No duplicate iso3×year rows
+       0 duplicates found
+[PASS] Awp in [0.001, 50000.0] USD/m³
+       High: 0, Low: 0, Range: 0.6494-4168.8590
+[PASS] VETb stored as m³ (median > 1e6)
+       Median VETb = 7.20e+06 m³
+[PASS] Cr values in [0, 1]
+       Range: 0.300-0.890
+[PASS] tAwp ~ 0 at baseline 2018
+       0 rows with |tAwp| > 0.01% at baseline
+[PASS] cAwp = NaN at baseline 2018
+       0 rows have non-NaN cAwp at baseline
+[PASS] Awp computed for >= 80 countries in 2020
+       155 countries with Awp in 2020; flags: {'CR_GLOBAL_DEFAULT': 760, 'CR_REGIONAL_DEFAULT': 696, 'MISSING_GVA': 651, 'ZERO_VETB': 591, 'NO_GMIE_IRRIGATION': 448}
+[PASS] NLD 2020 Awp in [0.5, 500.0] USD/m³
+       Awp = 126.6603
+[PASS] EGY 2020 Awp in [0.5, 30.0] USD/m³
+       Awp = 7.3113
+[PASS] ETH 2020 Awp in [0.001, 25.0] USD/m³
+       Awp = 7.4334
+[PASS] IND 2020 Awp in [0.01, 20.0] USD/m³
+       Awp = 6.2493

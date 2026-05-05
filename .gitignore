@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables / secrets
+.env
+.env.local
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code workspace state
+.claude/
+
+# Large raw rasters (GMIE source files - regenerable from GEE asset)
+data/raw/gmie/
+
+# Per-run outputs that can be regenerated
+Erbil/aeti_exports/
+**/aeti_exports/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Build / dist
+build/
+dist/
+*.egg

@@ -1,0 +1,11 @@
+iso3,country_name_standard,notes
+CIV,Cote d'Ivoire,Côte d'Ivoire — name varies (Ivory Coast)
+COD,"Congo, Dem. Rep.",Democratic Republic of Congo — often split from COG in datasets
+CUB,Cuba,Cuba — World Bank data often missing
+PRK,"Korea, Dem. People's Rep.",North Korea — World Bank data absent
+PSE,West Bank and Gaza,Palestine / West Bank and Gaza — incomplete World Bank data
+SDN,Sudan,Sudan — split from South Sudan (SSD) in 2011; pre-2011 data combined
+SSD,South Sudan,South Sudan — independent 2011; no pre-2011 data
+SWZ,Eswatini,Eswatini — formerly Swaziland; older data use SWZ/SWZ or SZ
+TUR,Turkiye,Turkey — officially renamed Türkiye in 2022; World Bank may lag
+XKX,Kosovo,Kosovo — not an ISO-3 member; World Bank uses XKX

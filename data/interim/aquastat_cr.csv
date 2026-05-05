@@ -1,0 +1,1737 @@
+iso3,year,cr_value,cr_source,cr_notes,wb_region
+ABW,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ABW,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ABW,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ABW,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ABW,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ABW,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ABW,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ABW,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+AFG,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+AFG,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+AFG,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+AFG,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+AFG,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+AFG,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+AFG,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+AFG,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+AGO,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+AGO,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+AGO,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+AGO,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+AGO,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+AGO,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+AGO,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+AGO,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ALB,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ALB,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ALB,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ALB,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ALB,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ALB,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ALB,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ALB,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AND,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AND,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AND,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AND,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AND,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AND,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AND,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AND,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ARE,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ARE,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ARE,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ARE,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ARE,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ARE,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ARE,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ARE,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ARG,2018,0.8,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+ARG,2019,0.8,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+ARG,2020,0.8,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+ARG,2021,0.8,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+ARG,2022,0.8,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+ARG,2023,0.8,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+ARG,2024,0.8,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+ARG,2025,0.8,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+ARM,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ARM,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ARM,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ARM,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ARM,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ARM,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ARM,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ARM,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ASM,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+ASM,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+ASM,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+ASM,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+ASM,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+ASM,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+ASM,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+ASM,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+ATG,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ATG,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ATG,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ATG,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ATG,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ATG,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ATG,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ATG,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+AUS,2018,0.7,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+AUS,2019,0.7,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+AUS,2020,0.7,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+AUS,2021,0.7,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+AUS,2022,0.7,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+AUS,2023,0.7,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+AUS,2024,0.7,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+AUS,2025,0.7,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+AUT,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AUT,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AUT,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AUT,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AUT,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AUT,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AUT,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AUT,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AZE,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AZE,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AZE,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AZE,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AZE,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AZE,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AZE,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+AZE,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BDI,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BDI,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BDI,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BDI,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BDI,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BDI,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BDI,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BDI,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BEL,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BEL,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BEL,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BEL,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BEL,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BEL,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BEL,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BEL,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BEN,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BEN,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BEN,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BEN,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BEN,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BEN,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BEN,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BEN,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BFA,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BFA,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BFA,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BFA,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BFA,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BFA,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BFA,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BFA,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BGD,2018,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+BGD,2019,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+BGD,2020,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+BGD,2021,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+BGD,2022,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+BGD,2023,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+BGD,2024,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+BGD,2025,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+BGR,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BGR,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BGR,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BGR,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BGR,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BGR,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BGR,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BGR,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BHR,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+BHR,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+BHR,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+BHR,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+BHR,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+BHR,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+BHR,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+BHR,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+BHS,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BHS,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BHS,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BHS,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BHS,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BHS,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BHS,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BHS,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BIH,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BIH,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BIH,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BIH,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BIH,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BIH,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BIH,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BIH,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BLR,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BLR,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BLR,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BLR,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BLR,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BLR,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BLR,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BLR,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+BLZ,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BLZ,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BLZ,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BLZ,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BLZ,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BLZ,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BLZ,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BLZ,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BMU,2018,0.76,REGIONAL_DEFAULT,North America regional default,North America
+BMU,2019,0.76,REGIONAL_DEFAULT,North America regional default,North America
+BMU,2020,0.76,REGIONAL_DEFAULT,North America regional default,North America
+BMU,2021,0.76,REGIONAL_DEFAULT,North America regional default,North America
+BMU,2022,0.76,REGIONAL_DEFAULT,North America regional default,North America
+BMU,2023,0.76,REGIONAL_DEFAULT,North America regional default,North America
+BMU,2024,0.76,REGIONAL_DEFAULT,North America regional default,North America
+BMU,2025,0.76,REGIONAL_DEFAULT,North America regional default,North America
+BOL,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BOL,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BOL,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BOL,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BOL,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BOL,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BOL,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BOL,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BRA,2018,0.82,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+BRA,2019,0.82,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+BRA,2020,0.82,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+BRA,2021,0.82,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+BRA,2022,0.82,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+BRA,2023,0.82,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+BRA,2024,0.82,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+BRA,2025,0.82,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+BRB,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BRB,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BRB,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BRB,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BRB,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BRB,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BRB,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BRB,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+BRN,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+BRN,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+BRN,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+BRN,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+BRN,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+BRN,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+BRN,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+BRN,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+BTN,2018,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+BTN,2019,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+BTN,2020,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+BTN,2021,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+BTN,2022,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+BTN,2023,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+BTN,2024,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+BTN,2025,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+BWA,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BWA,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BWA,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BWA,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BWA,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BWA,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BWA,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+BWA,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CAF,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CAF,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CAF,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CAF,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CAF,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CAF,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CAF,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CAF,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CAN,2018,0.76,REGIONAL_DEFAULT,North America regional default,North America
+CAN,2019,0.76,REGIONAL_DEFAULT,North America regional default,North America
+CAN,2020,0.76,REGIONAL_DEFAULT,North America regional default,North America
+CAN,2021,0.76,REGIONAL_DEFAULT,North America regional default,North America
+CAN,2022,0.76,REGIONAL_DEFAULT,North America regional default,North America
+CAN,2023,0.76,REGIONAL_DEFAULT,North America regional default,North America
+CAN,2024,0.76,REGIONAL_DEFAULT,North America regional default,North America
+CAN,2025,0.76,REGIONAL_DEFAULT,North America regional default,North America
+CHE,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CHE,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CHE,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CHE,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CHE,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CHE,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CHE,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CHE,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CHI,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CHI,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CHI,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CHI,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CHI,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CHI,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CHI,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CHI,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CHL,2018,0.58,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+CHL,2019,0.58,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+CHL,2020,0.58,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+CHL,2021,0.58,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+CHL,2022,0.58,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+CHL,2023,0.58,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+CHL,2024,0.58,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+CHL,2025,0.58,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+CHN,2018,0.62,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+CHN,2019,0.62,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+CHN,2020,0.62,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+CHN,2021,0.62,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+CHN,2022,0.62,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+CHN,2023,0.62,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+CHN,2024,0.62,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+CHN,2025,0.62,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+CIV,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CIV,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CIV,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CIV,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CIV,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CIV,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CIV,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CIV,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CMR,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CMR,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CMR,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CMR,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CMR,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CMR,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CMR,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CMR,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COD,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COD,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COD,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COD,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COD,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COD,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COD,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COD,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COG,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COG,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COG,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COG,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COG,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COG,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COG,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COG,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COL,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+COL,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+COL,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+COL,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+COL,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+COL,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+COL,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+COL,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+COM,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COM,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COM,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COM,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COM,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COM,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COM,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+COM,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CPV,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CPV,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CPV,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CPV,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CPV,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CPV,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CPV,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CPV,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+CRI,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CRI,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CRI,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CRI,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CRI,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CRI,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CRI,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CRI,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CUB,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CUB,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CUB,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CUB,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CUB,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CUB,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CUB,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CUB,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CUW,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CUW,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CUW,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CUW,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CUW,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CUW,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CUW,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CUW,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CYM,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CYM,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CYM,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CYM,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CYM,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CYM,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CYM,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CYM,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+CYP,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CYP,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CYP,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CYP,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CYP,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CYP,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CYP,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CYP,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CZE,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CZE,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CZE,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CZE,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CZE,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CZE,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CZE,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+CZE,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DEU,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DEU,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DEU,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DEU,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DEU,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DEU,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DEU,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DEU,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DJI,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+DJI,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+DJI,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+DJI,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+DJI,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+DJI,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+DJI,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+DJI,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+DMA,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+DMA,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+DMA,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+DMA,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+DMA,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+DMA,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+DMA,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+DMA,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+DNK,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DNK,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DNK,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DNK,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DNK,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DNK,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DNK,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DNK,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+DOM,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+DOM,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+DOM,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+DOM,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+DOM,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+DOM,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+DOM,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+DOM,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+DZA,2018,0.68,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+DZA,2019,0.68,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+DZA,2020,0.68,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+DZA,2021,0.68,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+DZA,2022,0.68,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+DZA,2023,0.68,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+DZA,2024,0.68,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+DZA,2025,0.68,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+ECU,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ECU,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ECU,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ECU,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ECU,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ECU,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ECU,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+ECU,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+EGY,2018,0.3,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+EGY,2019,0.3,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+EGY,2020,0.3,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+EGY,2021,0.3,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+EGY,2022,0.3,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+EGY,2023,0.3,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+EGY,2024,0.3,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+EGY,2025,0.3,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+ERI,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ERI,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ERI,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ERI,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ERI,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ERI,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ERI,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ERI,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ESP,2018,0.52,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+ESP,2019,0.52,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+ESP,2020,0.52,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+ESP,2021,0.52,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+ESP,2022,0.52,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+ESP,2023,0.52,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+ESP,2024,0.52,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+ESP,2025,0.52,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+EST,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+EST,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+EST,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+EST,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+EST,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+EST,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+EST,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+EST,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ETH,2018,0.88,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+ETH,2019,0.88,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+ETH,2020,0.88,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+ETH,2021,0.88,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+ETH,2022,0.88,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+ETH,2023,0.88,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+ETH,2024,0.88,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+ETH,2025,0.88,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+FIN,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FIN,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FIN,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FIN,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FIN,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FIN,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FIN,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FIN,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FJI,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+FJI,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+FJI,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+FJI,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+FJI,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+FJI,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+FJI,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+FJI,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+FRA,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FRA,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FRA,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FRA,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FRA,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FRA,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FRA,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FRA,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FRO,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FRO,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FRO,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FRO,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FRO,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FRO,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FRO,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FRO,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+FSM,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+FSM,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+FSM,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+FSM,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+FSM,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+FSM,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+FSM,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+FSM,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+GAB,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GAB,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GAB,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GAB,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GAB,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GAB,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GAB,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GAB,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GBR,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GBR,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GBR,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GBR,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GBR,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GBR,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GBR,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GBR,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GEO,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GEO,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GEO,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GEO,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GEO,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GEO,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GEO,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GEO,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GHA,2018,0.87,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+GHA,2019,0.87,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+GHA,2020,0.87,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+GHA,2021,0.87,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+GHA,2022,0.87,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+GHA,2023,0.87,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+GHA,2024,0.87,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+GHA,2025,0.87,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+GIB,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GIB,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GIB,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GIB,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GIB,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GIB,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GIB,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GIB,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GIN,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GIN,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GIN,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GIN,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GIN,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GIN,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GIN,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GIN,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GMB,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GMB,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GMB,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GMB,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GMB,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GMB,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GMB,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GMB,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GNB,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GNB,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GNB,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GNB,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GNB,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GNB,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GNB,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GNB,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GNQ,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GNQ,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GNQ,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GNQ,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GNQ,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GNQ,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GNQ,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GNQ,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+GRC,2018,0.55,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+GRC,2019,0.55,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+GRC,2020,0.55,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+GRC,2021,0.55,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+GRC,2022,0.55,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+GRC,2023,0.55,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+GRC,2024,0.55,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+GRC,2025,0.55,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+GRD,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GRD,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GRD,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GRD,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GRD,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GRD,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GRD,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GRD,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GRL,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GRL,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GRL,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GRL,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GRL,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GRL,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GRL,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GRL,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+GTM,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GTM,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GTM,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GTM,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GTM,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GTM,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GTM,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GTM,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GUM,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+GUM,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+GUM,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+GUM,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+GUM,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+GUM,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+GUM,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+GUM,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+GUY,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GUY,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GUY,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GUY,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GUY,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GUY,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GUY,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+GUY,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HKG,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+HKG,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+HKG,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+HKG,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+HKG,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+HKG,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+HKG,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+HKG,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+HND,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HND,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HND,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HND,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HND,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HND,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HND,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HND,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HRV,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+HRV,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+HRV,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+HRV,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+HRV,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+HRV,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+HRV,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+HRV,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+HTI,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HTI,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HTI,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HTI,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HTI,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HTI,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HTI,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HTI,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+HUN,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+HUN,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+HUN,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+HUN,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+HUN,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+HUN,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+HUN,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+HUN,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IDN,2018,0.65,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+IDN,2019,0.65,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+IDN,2020,0.65,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+IDN,2021,0.65,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+IDN,2022,0.65,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+IDN,2023,0.65,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+IDN,2024,0.65,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+IDN,2025,0.65,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+IMN,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IMN,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IMN,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IMN,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IMN,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IMN,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IMN,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IMN,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IND,2018,0.6,COUNTRY_FIXED,Country fixed Cr from literature,South Asia
+IND,2019,0.6,COUNTRY_FIXED,Country fixed Cr from literature,South Asia
+IND,2020,0.6,COUNTRY_FIXED,Country fixed Cr from literature,South Asia
+IND,2021,0.6,COUNTRY_FIXED,Country fixed Cr from literature,South Asia
+IND,2022,0.6,COUNTRY_FIXED,Country fixed Cr from literature,South Asia
+IND,2023,0.6,COUNTRY_FIXED,Country fixed Cr from literature,South Asia
+IND,2024,0.6,COUNTRY_FIXED,Country fixed Cr from literature,South Asia
+IND,2025,0.6,COUNTRY_FIXED,Country fixed Cr from literature,South Asia
+IRL,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IRL,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IRL,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IRL,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IRL,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IRL,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IRL,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IRL,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+IRN,2018,0.45,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+IRN,2019,0.45,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+IRN,2020,0.45,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+IRN,2021,0.45,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+IRN,2022,0.45,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+IRN,2023,0.45,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+IRN,2024,0.45,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+IRN,2025,0.45,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+IRQ,2018,0.45,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+IRQ,2019,0.45,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+IRQ,2020,0.45,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+IRQ,2021,0.45,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+IRQ,2022,0.45,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+IRQ,2023,0.45,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+IRQ,2024,0.45,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+IRQ,2025,0.45,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+ISL,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ISL,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ISL,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ISL,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ISL,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ISL,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ISL,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ISL,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ISR,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ISR,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ISR,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ISR,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ISR,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ISR,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ISR,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ISR,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ITA,2018,0.58,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+ITA,2019,0.58,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+ITA,2020,0.58,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+ITA,2021,0.58,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+ITA,2022,0.58,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+ITA,2023,0.58,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+ITA,2024,0.58,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+ITA,2025,0.58,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+JAM,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+JAM,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+JAM,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+JAM,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+JAM,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+JAM,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+JAM,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+JAM,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+JOR,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+JOR,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+JOR,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+JOR,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+JOR,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+JOR,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+JOR,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+JOR,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+JPN,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+JPN,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+JPN,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+JPN,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+JPN,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+JPN,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+JPN,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+JPN,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KAZ,2018,0.6,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+KAZ,2019,0.6,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+KAZ,2020,0.6,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+KAZ,2021,0.6,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+KAZ,2022,0.6,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+KAZ,2023,0.6,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+KAZ,2024,0.6,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+KAZ,2025,0.6,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+KEN,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+KEN,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+KEN,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+KEN,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+KEN,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+KEN,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+KEN,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+KEN,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+KGZ,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+KGZ,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+KGZ,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+KGZ,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+KGZ,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+KGZ,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+KGZ,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+KGZ,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+KHM,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KHM,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KHM,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KHM,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KHM,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KHM,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KHM,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KHM,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KIR,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KIR,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KIR,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KIR,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KIR,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KIR,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KIR,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KIR,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KNA,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+KNA,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+KNA,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+KNA,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+KNA,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+KNA,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+KNA,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+KNA,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+KOR,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KOR,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KOR,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KOR,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KOR,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KOR,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KOR,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KOR,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+KWT,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+KWT,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+KWT,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+KWT,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+KWT,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+KWT,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+KWT,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+KWT,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LAO,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+LAO,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+LAO,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+LAO,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+LAO,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+LAO,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+LAO,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+LAO,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+LBN,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LBN,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LBN,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LBN,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LBN,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LBN,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LBN,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LBN,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LBR,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+LBR,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+LBR,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+LBR,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+LBR,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+LBR,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+LBR,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+LBR,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+LBY,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LBY,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LBY,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LBY,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LBY,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LBY,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LBY,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LBY,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+LCA,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+LCA,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+LCA,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+LCA,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+LCA,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+LCA,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+LCA,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+LCA,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+LIE,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LIE,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LIE,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LIE,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LIE,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LIE,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LIE,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LIE,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LKA,2018,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+LKA,2019,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+LKA,2020,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+LKA,2021,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+LKA,2022,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+LKA,2023,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+LKA,2024,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+LKA,2025,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+LSO,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+LSO,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+LSO,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+LSO,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+LSO,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+LSO,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+LSO,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+LSO,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+LTU,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LTU,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LTU,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LTU,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LTU,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LTU,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LTU,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LTU,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LUX,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LUX,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LUX,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LUX,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LUX,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LUX,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LUX,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LUX,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LVA,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LVA,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LVA,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LVA,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LVA,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LVA,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LVA,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+LVA,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MAC,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MAC,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MAC,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MAC,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MAC,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MAC,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MAC,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MAC,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MAF,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+MAF,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+MAF,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+MAF,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+MAF,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+MAF,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+MAF,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+MAF,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+MAR,2018,0.55,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+MAR,2019,0.55,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+MAR,2020,0.55,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+MAR,2021,0.55,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+MAR,2022,0.55,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+MAR,2023,0.55,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+MAR,2024,0.55,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+MAR,2025,0.55,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+MCO,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MCO,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MCO,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MCO,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MCO,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MCO,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MCO,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MCO,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MDA,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MDA,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MDA,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MDA,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MDA,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MDA,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MDA,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MDA,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MDG,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MDG,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MDG,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MDG,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MDG,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MDG,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MDG,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MDG,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MDV,2018,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+MDV,2019,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+MDV,2020,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+MDV,2021,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+MDV,2022,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+MDV,2023,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+MDV,2024,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+MDV,2025,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+MEX,2018,0.65,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+MEX,2019,0.65,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+MEX,2020,0.65,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+MEX,2021,0.65,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+MEX,2022,0.65,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+MEX,2023,0.65,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+MEX,2024,0.65,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+MEX,2025,0.65,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+MHL,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MHL,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MHL,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MHL,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MHL,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MHL,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MHL,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MHL,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MKD,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MKD,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MKD,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MKD,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MKD,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MKD,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MKD,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MKD,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MLI,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MLI,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MLI,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MLI,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MLI,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MLI,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MLI,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MLI,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MLT,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+MLT,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+MLT,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+MLT,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+MLT,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+MLT,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+MLT,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+MLT,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+MMR,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MMR,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MMR,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MMR,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MMR,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MMR,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MMR,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MMR,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MNE,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MNE,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MNE,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MNE,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MNE,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MNE,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MNE,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MNE,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+MNG,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MNG,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MNG,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MNG,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MNG,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MNG,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MNG,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MNG,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MNP,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MNP,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MNP,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MNP,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MNP,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MNP,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MNP,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MNP,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MOZ,2018,0.89,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+MOZ,2019,0.89,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+MOZ,2020,0.89,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+MOZ,2021,0.89,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+MOZ,2022,0.89,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+MOZ,2023,0.89,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+MOZ,2024,0.89,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+MOZ,2025,0.89,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+MRT,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MRT,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MRT,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MRT,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MRT,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MRT,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MRT,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MRT,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MUS,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MUS,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MUS,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MUS,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MUS,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MUS,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MUS,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MUS,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MWI,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MWI,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MWI,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MWI,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MWI,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MWI,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MWI,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MWI,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+MYS,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MYS,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MYS,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MYS,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MYS,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MYS,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MYS,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+MYS,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NAM,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+NAM,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+NAM,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+NAM,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+NAM,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+NAM,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+NAM,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+NAM,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+NCL,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NCL,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NCL,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NCL,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NCL,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NCL,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NCL,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NCL,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NER,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+NER,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+NER,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+NER,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+NER,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+NER,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+NER,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+NER,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+NGA,2018,0.87,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+NGA,2019,0.87,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+NGA,2020,0.87,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+NGA,2021,0.87,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+NGA,2022,0.87,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+NGA,2023,0.87,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+NGA,2024,0.87,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+NGA,2025,0.87,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+NIC,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+NIC,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+NIC,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+NIC,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+NIC,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+NIC,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+NIC,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+NIC,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+NLD,2018,0.48,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+NLD,2019,0.48,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+NLD,2020,0.48,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+NLD,2021,0.48,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+NLD,2022,0.48,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+NLD,2023,0.48,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+NLD,2024,0.48,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+NLD,2025,0.48,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+NOR,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+NOR,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+NOR,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+NOR,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+NOR,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+NOR,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+NOR,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+NOR,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+NPL,2018,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+NPL,2019,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+NPL,2020,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+NPL,2021,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+NPL,2022,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+NPL,2023,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+NPL,2024,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+NPL,2025,0.62,REGIONAL_DEFAULT,South Asia regional default,South Asia
+NRU,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NRU,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NRU,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NRU,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NRU,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NRU,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NRU,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NRU,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NZL,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NZL,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NZL,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NZL,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NZL,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NZL,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NZL,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+NZL,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+OMN,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+OMN,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+OMN,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+OMN,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+OMN,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+OMN,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+OMN,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+OMN,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+PAK,2018,0.48,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+PAK,2019,0.48,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+PAK,2020,0.48,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+PAK,2021,0.48,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+PAK,2022,0.48,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+PAK,2023,0.48,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+PAK,2024,0.48,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+PAK,2025,0.48,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+PAN,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PAN,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PAN,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PAN,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PAN,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PAN,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PAN,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PAN,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PER,2018,0.52,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+PER,2019,0.52,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+PER,2020,0.52,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+PER,2021,0.52,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+PER,2022,0.52,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+PER,2023,0.52,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+PER,2024,0.52,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+PER,2025,0.52,COUNTRY_FIXED,Country fixed Cr from literature,Latin America & Caribbean 
+PHL,2018,0.6,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+PHL,2019,0.6,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+PHL,2020,0.6,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+PHL,2021,0.6,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+PHL,2022,0.6,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+PHL,2023,0.6,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+PHL,2024,0.6,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+PHL,2025,0.6,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+PLW,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PLW,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PLW,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PLW,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PLW,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PLW,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PLW,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PLW,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PNG,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PNG,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PNG,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PNG,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PNG,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PNG,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PNG,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PNG,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+POL,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+POL,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+POL,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+POL,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+POL,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+POL,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+POL,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+POL,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+PRI,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PRI,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PRI,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PRI,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PRI,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PRI,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PRI,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PRI,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PRK,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PRK,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PRK,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PRK,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PRK,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PRK,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PRK,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PRK,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PRT,2018,0.6,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+PRT,2019,0.6,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+PRT,2020,0.6,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+PRT,2021,0.6,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+PRT,2022,0.6,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+PRT,2023,0.6,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+PRT,2024,0.6,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+PRT,2025,0.6,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+PRY,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PRY,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PRY,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PRY,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PRY,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PRY,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PRY,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PRY,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+PSE,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+PSE,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+PSE,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+PSE,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+PSE,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+PSE,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+PSE,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+PSE,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+PYF,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PYF,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PYF,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PYF,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PYF,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PYF,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PYF,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+PYF,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+QAT,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+QAT,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+QAT,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+QAT,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+QAT,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+QAT,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+QAT,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+QAT,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ROU,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ROU,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ROU,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ROU,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ROU,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ROU,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ROU,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+ROU,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+RUS,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+RUS,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+RUS,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+RUS,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+RUS,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+RUS,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+RUS,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+RUS,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+RWA,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+RWA,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+RWA,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+RWA,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+RWA,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+RWA,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+RWA,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+RWA,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SAU,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+SAU,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+SAU,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+SAU,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+SAU,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+SAU,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+SAU,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+SAU,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+SDN,2018,0.55,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+SDN,2019,0.55,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+SDN,2020,0.55,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+SDN,2021,0.55,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+SDN,2022,0.55,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+SDN,2023,0.55,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+SDN,2024,0.55,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+SDN,2025,0.55,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+SEN,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SEN,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SEN,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SEN,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SEN,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SEN,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SEN,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SEN,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SGP,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+SGP,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+SGP,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+SGP,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+SGP,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+SGP,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+SGP,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+SGP,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+SLB,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+SLB,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+SLB,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+SLB,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+SLB,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+SLB,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+SLB,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+SLB,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+SLE,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SLE,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SLE,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SLE,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SLE,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SLE,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SLE,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SLE,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SLV,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SLV,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SLV,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SLV,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SLV,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SLV,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SLV,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SLV,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SMR,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SMR,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SMR,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SMR,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SMR,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SMR,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SMR,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SMR,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SOM,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SOM,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SOM,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SOM,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SOM,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SOM,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SOM,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SOM,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SRB,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SRB,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SRB,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SRB,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SRB,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SRB,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SRB,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SRB,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SSD,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SSD,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SSD,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SSD,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SSD,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SSD,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SSD,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SSD,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+STP,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+STP,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+STP,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+STP,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+STP,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+STP,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+STP,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+STP,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SUR,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SUR,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SUR,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SUR,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SUR,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SUR,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SUR,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SUR,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SVK,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SVK,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SVK,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SVK,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SVK,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SVK,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SVK,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SVK,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SVN,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SVN,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SVN,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SVN,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SVN,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SVN,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SVN,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SVN,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SWE,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SWE,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SWE,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SWE,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SWE,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SWE,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SWE,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SWE,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+SWZ,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SWZ,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SWZ,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SWZ,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SWZ,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SWZ,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SWZ,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SWZ,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SXM,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SXM,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SXM,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SXM,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SXM,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SXM,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SXM,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SXM,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+SYC,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SYC,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SYC,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SYC,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SYC,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SYC,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SYC,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SYC,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+SYR,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+SYR,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+SYR,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+SYR,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+SYR,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+SYR,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+SYR,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+SYR,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+TCA,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+TCA,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+TCA,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+TCA,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+TCA,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+TCA,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+TCA,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+TCA,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+TCD,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+TCD,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+TCD,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+TCD,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+TCD,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+TCD,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+TCD,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+TCD,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+TGO,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+TGO,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+TGO,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+TGO,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+TGO,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+TGO,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+TGO,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+TGO,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+THA,2018,0.55,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+THA,2019,0.55,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+THA,2020,0.55,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+THA,2021,0.55,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+THA,2022,0.55,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+THA,2023,0.55,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+THA,2024,0.55,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+THA,2025,0.55,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+TJK,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+TJK,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+TJK,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+TJK,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+TJK,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+TJK,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+TJK,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+TJK,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+TKM,2018,0.42,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+TKM,2019,0.42,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+TKM,2020,0.42,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+TKM,2021,0.42,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+TKM,2022,0.42,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+TKM,2023,0.42,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+TKM,2024,0.42,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+TKM,2025,0.42,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+TLS,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TLS,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TLS,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TLS,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TLS,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TLS,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TLS,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TLS,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TON,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TON,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TON,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TON,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TON,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TON,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TON,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TON,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TTO,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+TTO,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+TTO,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+TTO,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+TTO,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+TTO,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+TTO,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+TTO,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+TUN,2018,0.62,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+TUN,2019,0.62,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+TUN,2020,0.62,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+TUN,2021,0.62,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+TUN,2022,0.62,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+TUN,2023,0.62,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+TUN,2024,0.62,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+TUN,2025,0.62,COUNTRY_FIXED,Country fixed Cr from literature,"Middle East, North Africa, Afghanistan & Pakistan"
+TUR,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+TUR,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+TUR,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+TUR,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+TUR,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+TUR,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+TUR,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+TUR,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+TUV,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TUV,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TUV,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TUV,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TUV,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TUV,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TUV,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TUV,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+TZA,2018,0.88,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+TZA,2019,0.88,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+TZA,2020,0.88,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+TZA,2021,0.88,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+TZA,2022,0.88,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+TZA,2023,0.88,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+TZA,2024,0.88,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+TZA,2025,0.88,COUNTRY_FIXED,Country fixed Cr from literature,Sub-Saharan Africa 
+UGA,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+UGA,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+UGA,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+UGA,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+UGA,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+UGA,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+UGA,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+UGA,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+UKR,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+UKR,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+UKR,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+UKR,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+UKR,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+UKR,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+UKR,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+UKR,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+URY,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+URY,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+URY,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+URY,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+URY,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+URY,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+URY,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+URY,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+USA,2018,0.76,COUNTRY_FIXED,Country fixed Cr from literature,North America
+USA,2019,0.76,COUNTRY_FIXED,Country fixed Cr from literature,North America
+USA,2020,0.76,COUNTRY_FIXED,Country fixed Cr from literature,North America
+USA,2021,0.76,COUNTRY_FIXED,Country fixed Cr from literature,North America
+USA,2022,0.76,COUNTRY_FIXED,Country fixed Cr from literature,North America
+USA,2023,0.76,COUNTRY_FIXED,Country fixed Cr from literature,North America
+USA,2024,0.76,COUNTRY_FIXED,Country fixed Cr from literature,North America
+USA,2025,0.76,COUNTRY_FIXED,Country fixed Cr from literature,North America
+UZB,2018,0.42,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+UZB,2019,0.42,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+UZB,2020,0.42,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+UZB,2021,0.42,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+UZB,2022,0.42,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+UZB,2023,0.42,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+UZB,2024,0.42,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+UZB,2025,0.42,COUNTRY_FIXED,Country fixed Cr from literature,Europe & Central Asia
+VCT,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VCT,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VCT,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VCT,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VCT,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VCT,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VCT,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VCT,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VEN,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VEN,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VEN,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VEN,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VEN,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VEN,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VEN,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VEN,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VGB,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VGB,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VGB,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VGB,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VGB,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VGB,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VGB,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VGB,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VIR,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VIR,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VIR,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VIR,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VIR,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VIR,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VIR,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VIR,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Latin America & Caribbean 
+VNM,2018,0.5,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+VNM,2019,0.5,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+VNM,2020,0.5,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+VNM,2021,0.5,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+VNM,2022,0.5,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+VNM,2023,0.5,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+VNM,2024,0.5,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+VNM,2025,0.5,COUNTRY_FIXED,Country fixed Cr from literature,East Asia & Pacific
+VUT,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+VUT,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+VUT,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+VUT,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+VUT,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+VUT,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+VUT,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+VUT,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+WSM,2018,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+WSM,2019,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+WSM,2020,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+WSM,2021,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+WSM,2022,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+WSM,2023,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+WSM,2024,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+WSM,2025,0.72,REGIONAL_DEFAULT,East Asia & Pacific regional default,East Asia & Pacific
+XKX,2018,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+XKX,2019,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+XKX,2020,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+XKX,2021,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+XKX,2022,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+XKX,2023,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+XKX,2024,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+XKX,2025,0.78,REGIONAL_DEFAULT,Europe & Central Asia regional default,Europe & Central Asia
+YEM,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+YEM,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+YEM,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+YEM,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+YEM,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+YEM,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+YEM,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+YEM,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,"Middle East, North Africa, Afghanistan & Pakistan"
+ZAF,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZAF,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZAF,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZAF,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZAF,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZAF,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZAF,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZAF,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZMB,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZMB,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZMB,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZMB,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZMB,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZMB,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZMB,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZMB,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZWE,2018,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZWE,2019,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZWE,2020,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZWE,2021,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZWE,2022,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZWE,2023,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZWE,2024,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
+ZWE,2025,0.8,GLOBAL_DEFAULT,Global default Cr = 0.8,Sub-Saharan Africa 
